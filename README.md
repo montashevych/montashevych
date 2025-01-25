@@ -22,7 +22,7 @@ developerProfile = {
   code: [.rb, .html, .css, .js, .sql],
   tools: ['Ruby on Rails', 'SQL', 'Sidekiq', 'ElasticSearch', 'GraphQL', 'RSpec', 'Redis', 'Kafka', 'Stripe'],
   other_skills: ['Docker', 'Linux', 'MacOS', 'Git', 'Heroku', 'Scrum', 'TDD/BDD']
-  architecture: ['microservices', 'monolith', 'serverless', 'event-driven']  
+  architecture: ['microservices', 'monolith', 'event-driven']  
 }
 ```
 <p>
